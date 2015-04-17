@@ -10,4 +10,3 @@ public class AllTests {
         org.junit.runner.JUnitCore.main("ExpediaTest.AllTests");
     }
 }
-
